@@ -665,6 +665,7 @@ body {
     display: flex;
     justify-content: space-between;
     /* background-color: #888; */
+    margin-bottom: 70px;
 }
 .cont03 .box a {
     height: 100%;
@@ -715,6 +716,10 @@ footer ul {
 }
 footer ul li {
     padding: 30px 30px 40px;
+}
+footer ul li:hover {
+    font-weight: bold;
+    text-decoration: underline;
 }
 footer .text {
     display: flex;
