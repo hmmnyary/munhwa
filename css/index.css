@@ -322,6 +322,7 @@ body {
     height: 580px;
     border-radius: 24px;
     overflow: hidden;
+    border: 1px solid #e3e3e3;
 }
 .cont01 .mySwiper .swiper-wrapper .swiper-slide::before {
     content: '';
